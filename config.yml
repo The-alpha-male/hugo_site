@@ -71,7 +71,7 @@ params:
   #   - name: GitHub
   #     url: https://github.com/The-alpha-male
 
-  .Site.Params.Social:
+  social::
     - name: medium
       url: "https://medium.com/@ronymunene360"
     - name: twitter
