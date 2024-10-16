@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ronny Munene</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Ronny Munene</description>
+    <image>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello World! I’m Ronny Munene, a dedicated software engineer with a profound passion for data science and computer science, committed to designing cutting-edge systems and software. As an enthusiastic developer and data science advocate, I thrive on leveraging technology to tackle contemporary challenges, with a vision of shaping a brighter future.&lt;/p&gt;
+&lt;p&gt;My robust foundation in both theoretical concepts and practical applications equips me with a unique skill set, enabling me to approach complex problems from diverse angles and develop innovative solutions. I am excited to contribute my expertise to impactful projects that drive progress and transformation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Infographics</title>
+      <link>//localhost:1313/infographics/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//localhost:1313/infographics/</guid>
+      <description>&lt;p&gt;I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to master Streamlit for Data Science</title>
+      <link>//localhost:1313/blogs/how-to-master-streamlit-for-data-science/</link>
+      <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//localhost:1313/blogs/how-to-master-streamlit-for-data-science/</guid>
+      <description>&lt;h1 id=&#34;preview&#34;&gt;Preview&lt;/h1&gt;
+&lt;h2 id=&#34;the-essential-streamlit-for-all-your-data-science-needs&#34;&gt;The essential Streamlit for all your data science needs&lt;/h2&gt;
+&lt;p&gt;To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.&lt;/p&gt;
+&lt;p&gt;Streamlit makes the app creation process as simple as writing Python scripts!&lt;/p&gt;
+&lt;p&gt;In this article, you’ll learn how to master Streamlit when getting started with data science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What Is Bioinformatics</title>
+      <link>//localhost:1313/blogs/what-is-bioinformatics/</link>
+      <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//localhost:1313/blogs/what-is-bioinformatics/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.&lt;/p&gt;
+&lt;p&gt;In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.&lt;/p&gt;
+&lt;p&gt;As a biologist, I have self-taught myself data science and coding (R and Python) after several years of persistence (initially quitting a couple of times the coding concept just kind of clicked at some point in time). Learn more about how I learned coding and my strategies for breaking into data science in &lt;a href=&#34;https://towardsdatascience.com/strategies-for-learning-data-science-47053b58c19f&#34;&gt;Strategies for Learning Data Science&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>//localhost:1313/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>//localhost:1313/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>CodeHatari Blogging Hub</title>
+      <link>//localhost:1313/projects/software-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/software-engineering/</guid>
+      <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
+&lt;p&gt;CodeHatari Blogging Hub is a platform designed to help developers share their knowledge, tutorials, and tips through blogging. Features user authentication and a responsive design. Integrates NewsAPI to provide users with the latest news articles.&lt;/p&gt;
+&lt;h1 id=&#34;technology-and-architecture&#34;&gt;Technology and Architecture&lt;/h1&gt;
+&lt;h2 id=&#34;frontend&#34;&gt;Frontend&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vue.js 3: Used to building dynamic and responsive user interfaces. Vue&amp;rsquo;s reactivity system allows for seamless data binding and component-based architecture.&lt;/li&gt;
+&lt;li&gt;Nuxt.js: A framework built on top of Vue.js provides server-side rendering, static site generation, and a powerful configuration-based structure for efficient development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;backend&#34;&gt;Backend&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;FastAPI: Used it to build APIs with Python 3.10. We chose FastAPI because it ensures rapid development and high performance, making it an excellent choice for API development.&lt;/li&gt;
+&lt;li&gt;SQLAlchemy: Used it to handle database operations providing a powerful and flexible database management solution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;intergration&#34;&gt;Intergration&lt;/h2&gt;
+&lt;p&gt;Integrated &lt;code&gt;NewsAPI&lt;/code&gt; into the blog pages to provide users with the latest news articles, enriching the blog content and ensuring up-to-date information is available.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solubility_Predictor using Machine Learning</title>
+      <link>//localhost:1313/projects/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/machine-learning/</guid>
+      <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
+&lt;p&gt;This project delves into the realm of cheminformatics to predict the aqueous solubility of chemical compounds using machine learning techniques. By leveraging a comprehensive dataset containing molecular descriptors from &lt;a href=&#34;&#39;https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv&#39;&#34;&gt;Delaney&amp;rsquo;s solubility dataset&lt;/a&gt;, I explored key molecular properties like molecular weight, LogP, and the number of rotatable bonds, transforming raw chemical data into actionable predictive models.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Data Analysis: I meticulously prepared the dataset by separating the target variable (logS, which represents solubility) from the features (molecular descriptors). I then split the data into training and testing sets to ensure unbiased model evaluation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Carbon Emission Dashboard using Panel</title>
+      <link>//localhost:1313/projects/data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/data-science/</guid>
+      <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
+&lt;p&gt;This project focuses on developing an interactive CO2 Emission Dashboard using Python and the &lt;code&gt;Panel&lt;/code&gt; library. It allows users to explore global CO2 emissions from 1750 to 2021, segmented by continent and specific sources like coal, oil, and gas. The dashboard includes visualizations like &lt;code&gt;line charts&lt;/code&gt;, &lt;code&gt;scatterplots&lt;/code&gt;, and &lt;code&gt;bar charts&lt;/code&gt; , along with interactive widgets for real-time data exploration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Data Preparation: I imported and cleaned CO2 emissions data, filling missing values and creating additional columns like GDP per capita to enrich the dataset for better analysis. I ensured data accuracy by processing and grouping it based on countries, continents, and years.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>YouTube Global Data Analysis</title>
+      <link>//localhost:1313/projects/data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/data-science/</guid>
+      <description>&lt;h1 id=&#34;project-description&#34;&gt;Project Description&lt;/h1&gt;
+&lt;p&gt;In this project, I dove deep into YouTube&amp;rsquo;s vast global dataset to uncover trends and insights that shape the platform’s success across continents. By leveraging a comprehensive dataset from &lt;code&gt;Kaggle&lt;/code&gt; , I explored key metrics like uploads, views, subscriber counts, and estimated earnings, transforming raw data into actionable insights.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Continental Insights: I aggregated data to compare YouTube&amp;rsquo;s performance across continents, analyzing total subscribers, uploads, views, earnings, and the number of active content creators per region. This helped highlight regional disparities and dominant markets.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
